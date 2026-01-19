@@ -57,12 +57,12 @@ This approach mirrors industry actuarial pricing practice and produces an interp
 ## Repository Structure
 
 notebooks/
-├── 01_data_audit_and_eda.ipynb
-├── 02_frequency_glm.ipynb
-├── 03_severity_glm.ipynb
-├── 05_ml_benchmarking.ipynb
-├── 06_causal_analysis.ipynb
-└── 07_risk_segmentation.ipynb
+-- 01_data_audit_and_eda.ipynb
+-- 02_frequency_glm.ipynb
+-- 03_severity_glm.ipynb
+-- 05_ml_benchmarking.ipynb
+-- 06_causal_analysis.ipynb
+-- 07_risk_segmentation.ipynb
 
 data/
 └── README.md
