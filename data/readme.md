@@ -17,6 +17,6 @@ Search online for:
 
 ## Expected Folder Structure
 
-data/
-├── freMTPL2freq.csv
-└── freMTPL2sev.csv
+data
+- freMTPL2freq.csv
+- freMTPL2sev.csv
