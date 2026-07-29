@@ -67,10 +67,6 @@ notebooks/
 data/
 -README.md
 
-report/
-- (Executive summary coming soon)
-
-
 ---
 
 ## Why This Project Matters
